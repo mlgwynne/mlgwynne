@@ -4,8 +4,8 @@ import me
 
 class micah:
 	def thingsImDoing():
-		learning = "Python, C, other stuff"
-		thinkingAboutLearning = "Javascript, C#, Vala, Guitar"
+		learning = "Python, C, guitar"
+		thinkingAboutLearning = "Javascript, C#, Vala"
 
 		me.brain_import(learning, thinkingAboutLearning)
 
