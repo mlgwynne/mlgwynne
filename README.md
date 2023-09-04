@@ -11,11 +11,15 @@ class micah:
 
 	me.set_self(":-)")
 exit()
+
 [user@pc ~]$ py main.py
 Traceback (most recent call last):
   File "/home/mlg/main.py", line 1, in <module>
     import me
 ModuleNotFoundError: No module named 'me'
+
+[mlg@mlgpc ~]$ echo sad
+sad
 ```
 
 - 👋 Hi, I’m @mlgwynne
