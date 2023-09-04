@@ -21,7 +21,7 @@ ModuleNotFoundError: No module named 'me'
 [user@pc ~]$ echo sad
 sad
 ```
-
+![mlgwynne's Stats](https://github-readme-stats.vercel.app/api?username=mlgwynne&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
 - 👋 Hi, I’m @mlgwynne
 - 👀 I’m interested in - certain THings
 - 🌱 I’m currently learning - C
