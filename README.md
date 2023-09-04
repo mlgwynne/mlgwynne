@@ -1,4 +1,4 @@
-```
+```py
 [user@pc ~]$ cat main.py
 import me
 
