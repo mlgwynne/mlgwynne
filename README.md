@@ -18,7 +18,7 @@ Traceback (most recent call last):
     import me
 ModuleNotFoundError: No module named 'me'
 
-[mlg@mlgpc ~]$ echo sad
+[user@pc ~]$ echo sad
 sad
 ```
 
