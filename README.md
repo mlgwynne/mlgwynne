@@ -10,7 +10,6 @@ class micah:
 		me.brain_import(learning, thinkingAboutLearning)
 
 	me.set_self(":-)")
-exit()
 
 [user@pc ~]$ py main.py
 Traceback (most recent call last):
